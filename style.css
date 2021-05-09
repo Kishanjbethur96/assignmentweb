@@ -172,11 +172,13 @@ header .navbar ul li a:hover{
     }
     .home .image2{
         width: 100%;
+       
     }
+    
     
 }
 
-@media (max-width:500px){
+@media (max-width:600px){
 
   html{
       font-size: 50%;
@@ -184,6 +186,10 @@ header .navbar ul li a:hover{
   header .anch img{
     height: 5rem;
     align-items: center;
+}
+.home .image2{
+    margin: 0rem;
+  
 }
 
   
