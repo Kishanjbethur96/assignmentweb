@@ -172,6 +172,7 @@ header .navbar ul li a:hover{
     }
     .home .image2{
         width: 80%;
+        
        
     }
     
@@ -188,7 +189,7 @@ header .navbar ul li a:hover{
     align-items: center;
 }
 .home .image2{
-    margin: 0rem;
+    margin: 0rem auto;
   
 }
 
